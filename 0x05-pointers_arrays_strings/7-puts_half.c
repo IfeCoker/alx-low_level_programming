@@ -3,10 +3,9 @@
 /**
  * puts_half - print the second half of the string
  * @str: string
- * f the number of characters is odd, the function should print the last n characters of the string,
+ * If the number of characters is odd, the function should print the last n cha
  * Return: void
  */
-
 void puts_half(char *str)
 {
 	int count = 0, i;
